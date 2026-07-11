@@ -1,112 +1,98 @@
 # Industrial Reliability Intelligence Platform
 
-Industrial operational intelligence platform for predictive maintenance, anomaly detection, reliability monitoring, degradation analysis, and maintenance decision support across HVAC and rotating equipment systems.
+Industrial Reliability Intelligence Platform is a modular industrial software platform that helps improve equipment reliability through machine health monitoring, predictive maintenance, industrial analytics, and AI-assisted maintenance decision support.
 
-Status: On going development
+**Status:** Ongoing Development
 
 ---
 
 ## Overview
 
-This platform focuses on the development of industrial operational intelligence workflows for condition monitoring, reliability analytics, and predictive maintenance applications.
+Industrial Reliability Intelligence Platform provides practical industrial intelligence for manufacturing and facility operations by transforming industrial data into actionable maintenance insights.
 
-The project is designed around practical industrial engineering concepts including:
+The platform complements existing industrial automation systems by integrating machine health monitoring, reliability analytics, predictive maintenance, and maintenance intelligence into a unified operational solution.
 
-* Feature engineering for industrial telemetry
-* Real-time anomaly detection
-* Reliability monitoring and degradation analysis
-* Remaining Useful Life (RUL) concepts
-* Multi-sensor condition assessment
-* Maintenance decision support
-* Operational workflow visualization
-* Industrial diagnostic intelligence
+---
+
+## Platform Capabilities
+
+### Industrial Connectivity
+
+* Industrial Equipment Integration
+* Industrial Data Acquisition
+* Edge Connectivity
+
+### Machine Health
+
+* Machine Health Monitoring
+* Condition Monitoring
+* Machine Health Assessment
+* Machine Health Score
+* Equipment Performance Monitoring
+* Degradation Monitoring
+
+### Reliability Analytics
+
+* Reliability Assessment
+* Equipment Reliability Analysis
+* Trend Analysis
+* Asset Performance Analytics
+
+### Predictive Maintenance
+
+* Real-time Anomaly Detection
+* Failure Prediction
+* Remaining Useful Life (RUL)
+* Condition-Based Maintenance
+
+### Maintenance Intelligence
+
+* Maintenance Decision Support
+* AI-assisted Troubleshooting
+* Maintenance Knowledge Assistant
+* Technical Knowledge Intelligence
+
+### Visualization
+
+* Machine Health Dashboard
+* Asset Monitoring
+* Alarm Monitoring
+* Trend Analytics
+* Reporting
 
 ---
 
 ## Target Industrial Applications
 
+* Manufacturing
+* Industrial Automation
 * HVAC Systems
 * Chillers
 * Pumps
+* Electric Motors
+* Compressors
 * Air Handling Units (AHU)
 * Rotating Equipment
 * Smart Facilities
-* Industrial Utilities
-* Operational Technology (OT) environments
 
 ---
 
-## Planned System Architecture
+## Technology Areas
 
-```text
-Telemetry Stream
-        ↓
-Data Conditioning
-        ↓
-Feature Engineering
-        ↓
-Condition Monitoring
-        ↓
-Anomaly Detection
-        ↓
-Reliability Assessment
-        ↓
-RUL Estimation
-        ↓
-Diagnostic Intelligence
-        ↓
-Maintenance Decision Support
-        ↓
-Operator Dashboard
-```
+* Industrial Automation
+* Machine Health
+* Predictive Maintenance
+* Industrial AI
+* Industrial IoT
+* Maintenance Intelligence
 
 ---
 
-## Core Development Areas
+## Repository Status
 
-### Telemetry & Data Processing
+This repository serves as the primary development platform for the Industrial Reliability Intelligence Platform.
 
-* Sensor data ingestion
-* Time-series conditioning
-* Signal preprocessing
-* Rolling window analytics
-
-### Reliability Intelligence
-
-* Degradation monitoring
-* Health scoring
-* Trend persistence analysis
-* Reliability risk assessment
-
-### Predictive Maintenance
-
-* Anomaly detection
-* Fault pattern analysis
-* Maintenance prioritization
-* Condition-based monitoring
-
-### Diagnostic Intelligence
-
-* Multi-domain diagnostic workflows
-* Equipment condition analysis
-* Operational anomaly correlation
-* Maintenance reasoning support
+Supporting projects covering industrial communication, machine learning, industrial AI, edge computing, and maintenance intelligence will progressively be consolidated into this platform as reusable modules.
 
 ---
-
-## Current Development Status
-
-This repository currently serves as the foundation architecture and showcase platform for ongoing industrial operational intelligence development.
-
-Implementation modules, infrastructure components, and operational workflows are under active development.
-
----
-
-## License
-
-All rights reserved.
-
-This repository is provided for portfolio, demonstration, and evaluation purposes only.
-
-The implementation and system design are proprietary and subject to future commercial development.
 
